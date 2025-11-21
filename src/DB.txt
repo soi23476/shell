@@ -1,0 +1,5 @@
+## Team Database Initialized ##
+[MEMBER] 국소이 | 000000
+[ACTIVITY] 2025-05-05 | 
+[MEMBER] 국소이 | 20061112
+[ACTIVITY] 2025-11-12 | 오픈소스기초설계 상의
